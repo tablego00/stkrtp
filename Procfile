@@ -1,0 +1,1 @@
+web: gunicorn Bot.LineBot.StoMonBot:app --log-file -
